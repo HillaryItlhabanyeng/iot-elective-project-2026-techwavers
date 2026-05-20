@@ -27,8 +27,8 @@
 
 ## 📌 Project Overview
 
-**Project Title:** `[Your Project Title Here]`  
-**Group Name / Number:** `[Group Name / Number]`  
+**Project Title:** `[Smart Adaptive Room Hub]`  
+**Group Name / Number:** `[Techwavers]`  
 **Presentation Date:** End of April 2026
 
 ---
@@ -37,10 +37,12 @@
 
 | Student Name | Student Number | Role / Responsibility |
 |---|---|---|
-| [Name Surname] | [Student No.] | [e.g. Hardware Lead] |
-| [Name Surname] | [Student No.] | [e.g. Software Lead] |
-| [Name Surname] | [Student No.] | [e.g. Documentation Lead] |
-| [Name Surname] | [Student No.] | [e.g. Testing Lead] |
+| [Hillary Itlhabanyeng] | [230777465] | [Team Lead] |
+| [Wayne Simango] | [230237584] | [Software Lead] |
+| [Tlou Masebe] | [230128521] | [Documentation Lead] |
+| [Athini Ngquke] | [222352302] | [e.g. Testing Lead] |
+| [Baatile Gerals Motau] | [230993508] | [] |
+| [Sinobawo Nkomo] | [223174602] | [] |
 
 ---
 
